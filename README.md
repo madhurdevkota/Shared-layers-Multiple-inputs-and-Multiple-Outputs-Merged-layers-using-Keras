@@ -52,8 +52,6 @@ This project explores the use of neural network architectures in processing and 
    - A complex model setup where one branch predicts a continuous outcome (score difference) and another predicts a binary outcome (win/loss).
    - The approach demonstrates handling different types of data and outputs within a single model framework.
 
-#### **Conclusion**
-The project exemplifies advanced techniques in machine learning, particularly in the context of neural networks, to handle diverse data types and structures. Through categorical embeddings, shared layers, and multi-output architectures, it provides a comprehensive insight into building sophisticated predictive models.
 
 ---
 
