@@ -1,7 +1,5 @@
 # A Deep Dive into Category Embeddings, Shared Architectures, and Multi-Output Models for Robust Data Science Solutions
 
-### Detailed Breakdown of Methods and Approaches in the Project
-
 This project explores the use of neural network architectures in processing and predicting outcomes based on sports game data and Airbnb listing data. Two main themes are evident: embedding categorical variables and leveraging shared layers for model efficiency. The project integrates TensorFlow and Keras for building and evaluating models.
 
 #### **Part 1: Two-Input Networks with Categorical Embeddings**
